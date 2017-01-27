@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BAC32CCB1E3BE7CB00335FA7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BAC32CCA1E3BE7CB00335FA7 /* main.cpp */; };
+		BAC32CD21E3BEAC600335FA7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BAC32CD11E3BEAC600335FA7 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		BAC32CC71E3BE7CB00335FA7 /* Reverse Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reverse Algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BAC32CCA1E3BE7CB00335FA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BAC32CD11E3BEAC600335FA7 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "Reverse Algorithm/main.cpp"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		BAC32CC91E3BE7CB00335FA7 /* Reverse Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				BAC32CCA1E3BE7CB00335FA7 /* main.cpp */,
+				BAC32CD11E3BEAC600335FA7 /* main.cpp */,
 			);
 			name = "Reverse Algorithm";
 			path = Reverse;
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BAC32CCB1E3BE7CB00335FA7 /* main.cpp in Sources */,
+				BAC32CD21E3BEAC600335FA7 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
