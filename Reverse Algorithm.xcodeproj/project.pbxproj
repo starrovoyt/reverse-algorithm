@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		BAC32CC71E3BE7CB00335FA7 /* Reverse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Reverse; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAC32CC71E3BE7CB00335FA7 /* Reverse Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reverse Algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC32CCA1E3BE7CB00335FA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		BAC32CBE1E3BE7CB00335FA7 = {
 			isa = PBXGroup;
 			children = (
-				BAC32CC91E3BE7CB00335FA7 /* Reverse */,
+				BAC32CC91E3BE7CB00335FA7 /* Reverse Algorithm */,
 				BAC32CC81E3BE7CB00335FA7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,26 @@
 		BAC32CC81E3BE7CB00335FA7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BAC32CC71E3BE7CB00335FA7 /* Reverse */,
+				BAC32CC71E3BE7CB00335FA7 /* Reverse Algorithm */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BAC32CC91E3BE7CB00335FA7 /* Reverse */ = {
+		BAC32CC91E3BE7CB00335FA7 /* Reverse Algorithm */ = {
 			isa = PBXGroup;
 			children = (
 				BAC32CCA1E3BE7CB00335FA7 /* main.cpp */,
 			);
+			name = "Reverse Algorithm";
 			path = Reverse;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BAC32CC61E3BE7CB00335FA7 /* Reverse */ = {
+		BAC32CC61E3BE7CB00335FA7 /* Reverse Algorithm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BAC32CCE1E3BE7CB00335FA7 /* Build configuration list for PBXNativeTarget "Reverse" */;
+			buildConfigurationList = BAC32CCE1E3BE7CB00335FA7 /* Build configuration list for PBXNativeTarget "Reverse Algorithm" */;
 			buildPhases = (
 				BAC32CC31E3BE7CB00335FA7 /* Sources */,
 				BAC32CC41E3BE7CB00335FA7 /* Frameworks */,
@@ -77,9 +78,9 @@
 			);
 			dependencies = (
 			);
-			name = Reverse;
+			name = "Reverse Algorithm";
 			productName = Reverse;
-			productReference = BAC32CC71E3BE7CB00335FA7 /* Reverse */;
+			productReference = BAC32CC71E3BE7CB00335FA7 /* Reverse Algorithm */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BAC32CC21E3BE7CB00335FA7 /* Build configuration list for PBXProject "Reverse" */;
+			buildConfigurationList = BAC32CC21E3BE7CB00335FA7 /* Build configuration list for PBXProject "Reverse Algorithm" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -109,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BAC32CC61E3BE7CB00335FA7 /* Reverse */,
+				BAC32CC61E3BE7CB00335FA7 /* Reverse Algorithm */,
 			);
 		};
 /* End PBXProject section */
@@ -230,7 +231,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BAC32CC21E3BE7CB00335FA7 /* Build configuration list for PBXProject "Reverse" */ = {
+		BAC32CC21E3BE7CB00335FA7 /* Build configuration list for PBXProject "Reverse Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BAC32CCC1E3BE7CB00335FA7 /* Debug */,
@@ -239,7 +240,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BAC32CCE1E3BE7CB00335FA7 /* Build configuration list for PBXNativeTarget "Reverse" */ = {
+		BAC32CCE1E3BE7CB00335FA7 /* Build configuration list for PBXNativeTarget "Reverse Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BAC32CCF1E3BE7CB00335FA7 /* Debug */,
